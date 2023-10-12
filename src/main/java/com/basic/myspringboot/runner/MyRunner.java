@@ -35,6 +35,7 @@ public class MyRunner implements ApplicationRunner {
         System.out.println("age = " + age);
         System.out.println("fullName = " + fullName);
         System.out.println("git test");
+        System.out.println("git test2");
     }
 
 }
